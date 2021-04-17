@@ -11,7 +11,7 @@ In this project, I made use of **Python** to explore data related to bike share 
 ### Files used
 **chicago.csv**\
 **new_york_city.csv**\
-**washington.csv**\
+**washington.csv**
 
 ### Credits
 https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.hour.html
