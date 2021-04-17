@@ -18,3 +18,4 @@ https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.hour.html
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.get.html
 https://stackoverflow.com/questions/50027047/how-to-query-a-pandas-dataframe-for-a-specific-attribute
 https://stackoverflow.com/questions/653509/breaking-out-of-nested-loops
+https://numpy.org/doc/
